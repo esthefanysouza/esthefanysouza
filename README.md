@@ -2,15 +2,20 @@
 
 # Sejam bem-vindos! 👋
 
-Estudante de Ciência da Computação apaixonada por tecnologia, programação e por transformar ideias em soluções.
+Apaixonada por tecnologia, programação e por transformar ideias em soluções!
 
 Sempre aprendendo, sempre construindo. 🚀
 
 ## 🔗 Contatos
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-222222?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
-
-📧 anaesthefanysouza5@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/ana-esthefany-souza/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a> 
+  <a href="anaesthefanysouza5@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
 ---
 
@@ -18,13 +23,15 @@ Sempre aprendendo, sempre construindo. 🚀
 
 ### Domínio
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,mysql" />
+<p align="center">
+  <a>
+    <img src="https://skillicons.dev/icons?i=html,css,js,postgres&theme=dark" />
+  </a>
 </p>
 
 ### Estudando
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,react,nextjs,nodejs,php,ts,tailwind" />
 </p>
 
@@ -54,9 +61,3 @@ Sempre aprendendo, sempre construindo. 🚀
 > Code. Learn. Build.!
 
 ---
-
-## Estatísticas
-
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=esthefanysouza&show_icons=true&theme=transparent)
-
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=esthefanysouza&layout=compact&theme=transparent)
