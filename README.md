@@ -1,4 +1,5 @@
 # Esthefany Souza
+![Computer Science](https://img.shields.io/badge/Computer_Science-FF6D1F?style=for-the-badge)
 
 ### Estudante de Ciência da Computação
 
