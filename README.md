@@ -2,9 +2,9 @@
 
 # Sejam bem-vindos! 👋
 
-<h6>Apaixonada por tecnologia, programação e por transformar ideias em soluções!<h6/>
+#### Apaixonada por tecnologia, programação e por transformar ideias em soluções!
 
-Sempre aprendendo, sempre construindo. 🚀
+#### Sempre aprendendo, sempre construindo. 🚀
 
 ---
 
