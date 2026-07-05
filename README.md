@@ -1,26 +1,57 @@
-# Esthefany Souza
-![Computer Science](https://img.shields.io/badge/Computer_Science-FF6D1F?style=for-the-badge)
+<img src="SEU_BANNER_AQUI" width="100%" />
 
-### Estudante de Ciência da Computação
+# Olá, meu nome é Esthefany! 👋
 
-Apaixonada por tecnologia, programação e por transformar ideias em soluções.
+Estudante de Ciência da Computação apaixonada por tecnologia, programação e por transformar ideias em soluções.
 
----
+Sempre aprendendo, sempre construindo. 🚀
 
-## Tecnologias
+## 🔗 Contatos
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-222222?style=for-the-badge&logo=github)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-222222?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
+
+📧 anaesthefanysouza5@gmail.com
 
 ---
 
-## Atualmente aprendendo
+## 💻 Tecnologias e Linguagens
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### Domínio
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,mysql" />
+</p>
+
+### Estudando
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,react,nextjs,nodejs,php,ts,tailwind" />
+</p>
+
+---
+
+## 🛠️ Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,vscode" />
+</p>
+
+<p>
+  Canva • Notion
+</p>
+
+---
+
+## 🚀 Em Destaque
+
+- Desenvolvimento Web
+- Interfaces modernas e responsivas
+- Aprendizado contínuo
+- Construção de projetos práticos
+
+---
+
+> Code. Learn. Build.![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Banco de Dados](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
