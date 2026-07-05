@@ -32,7 +32,7 @@ Sempre aprendendo, sempre construindo. 🚀
 ### Estudando
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,nextjs,nodejs,php,ts,tailwind" />
+  <img src="https://skillicons.dev/icons?i=python,react,nextjs,nodejs,php,ts,tailwind&theme=dark" />
 </p>
 
 ---
