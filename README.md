@@ -12,7 +12,7 @@ Sempre aprendendo, sempre construindo. 🚀
   <a href="https://www.linkedin.com/in/ana-esthefany-souza/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a> 
-  <a href="anaesthefanysouza5@gmail.com">
+  <a href="mailto:anaesthefanysouza5@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
