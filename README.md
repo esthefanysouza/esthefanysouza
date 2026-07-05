@@ -2,20 +2,9 @@
 
 # Sejam bem-vindos! 👋
 
-Apaixonada por tecnologia, programação e por transformar ideias em soluções!
+<h6>Apaixonada por tecnologia, programação e por transformar ideias em soluções!<h6/>
 
 Sempre aprendendo, sempre construindo. 🚀
-
-## 🔗 Contatos
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ana-esthefany-souza/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a> 
-  <a href="mailto:anaesthefanysouza5@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
 
 ---
 
@@ -60,6 +49,16 @@ Sempre aprendendo, sempre construindo. 🚀
 
 ---
 
-> Code. Learn. Build.!
+## 🔗 Contatos
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/ana-esthefany-souza/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a> 
+  <a href="mailto:anaesthefanysouza5@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+
+> Code. Learn. Build.!
