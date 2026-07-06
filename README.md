@@ -8,6 +8,13 @@
 
 ---
 
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=esthefanysouza&locale=pt-br&mode=daily&theme=gruvbox&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/esthefanysouza/esthefanysouza/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2&custom_title=Linguagens%20mais%20usadas" height="227" alt="languages graph"  />
+</div>
+
+---
+
 ## 💻 Tecnologias e Linguagens
 
 ### Domínio
