@@ -11,7 +11,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=esthefanysouza&locale=pt-br&mode=daily&theme=gruvbox&hide_border=false&border_radius=5&order=3" height="180cm"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esthefanysouza&layout=compact&theme=gruvbox" height="180cm"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=esthefanysouza&langs_count=4&locale=pt-br&mode=daily&theme=gruvbox&hide_border=false&border_radius=5&order=3" height="180cm"/>
 </div>
 
 ---
